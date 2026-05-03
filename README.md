@@ -52,3 +52,11 @@ SoSoValue API → Signal Engine → AI Analysis → Dashboard → User Action
 cd backend
 npm install
 node index.js
+
+## 🚀 Run Locally
+
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
