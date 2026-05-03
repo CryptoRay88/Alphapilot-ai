@@ -1,0 +1,19 @@
+alphapilot-ai/
+│
+├── backend/
+│   ├── index.js
+│   ├── package.json
+│   ├── .env.example
+│
+├── frontend/
+│   ├── pages/
+│   │   └── index.js
+│   ├── package.json
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+└── screenshots/
+    ├── dashboard.png
+    ├── signal.png
+    └── ai-explanation.png
