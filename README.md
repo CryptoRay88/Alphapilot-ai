@@ -1,56 +1,54 @@
 # 🚀 AlphaPilot AI
 
-## AI Agent for Real-Time Trading Signals → Decisions → Execution
+## AI Agent for Real-Time Crypto Signals → AI Insights → Action
 
-AlphaPilot AI turns live crypto market data into **actionable trading signals with AI explanations and execution paths** using SoSoValue APIs.
-
-It is an **agentic finance system** that helps users move from:
-**data overload → clear signal → instant action**
+AlphaPilot AI is an agentic trading copilot that uses **SoSoValue market data** to detect trading opportunities, explain them with AI, and help users make faster decisions.
 
 ---
 
-## ⚡ Why It Wins
-
-Most tools show charts.
-
-AlphaPilot:
-- Detects opportunities in real time
-- Explains *why they matter* using AI
-- Lets users act immediately (simulate or execute)
-
-👉 It closes the loop:  
-**Insight → Decision → Execution**
+## 🔥 Live Demo
+https://your-deployment-url.vercel.app
 
 ---
 
-## 🧠 Core Features
+## 🧠 What It Does
 
-- 📡 Real-time market signal detection (SoSoValue API)
-- 🤖 AI explanations for every signal (why it matters)
-- ⚡ Instant trade simulation flow
-- 📊 Clean, minimal decision dashboard
-- 🔌 Ready for SoDEX execution integration
+- Pulls real-time crypto data from SoSoValue API  
+- Detects high-probability trading signals  
+- Uses AI to explain market movements  
+- Lets users simulate trading decisions  
 
 ---
 
-## 🔁 System Flow
+## ⚡ Core Flow
 
-SoSoValue API → Signal Engine → AI Layer → User Dashboard → Execution Layer
+SoSoValue API → Signal Engine → AI Analysis → Dashboard → User Action
+
+---
+
+## 🧩 Features
+
+- 📡 Real-time signal detection  
+- 🤖 AI-generated explanations  
+- 📊 Clean trading dashboard  
+- ⚡ Instant decision simulation  
+- 🔌 Ready for SoDEX execution integration  
 
 ---
 
 ## 🏗️ Tech Stack
 
-- Backend: Node.js + Express  
-- Frontend: Next.js  
-- AI: OpenAI API  
-- Data: SoSoValue API  
+- Node.js + Express  
+- Next.js  
+- OpenAI API  
+- SoSoValue API  
 
 ---
 
-## 🚀 Setup
+## 🚀 How to Run Locally
 
-### Install dependencies
+### Backend
 ```bash
-cd backend && npm install
-cd ../frontend && npm install
+cd backend
+npm install
+node index.js
