@@ -1,62 +1,72 @@
 # 🚀 AlphaPilot AI
 
-## AI Agent for Real-Time Crypto Signals → AI Insights → Action
+## Agentic Trading Copilot powered by SoSoValue
 
-AlphaPilot AI is an agentic trading copilot that uses **SoSoValue market data** to detect trading opportunities, explain them with AI, and help users make faster decisions.
-
----
-
-## 🔥 Live Demo
-https://your-deployment-url.vercel.app
+AlphaPilot AI turns live crypto data into actionable trading signals using AI.
 
 ---
 
-## 🧠 What It Does
+## 🧠 Problem
+Crypto markets are noisy, fast, and fragmented.
 
-- Pulls real-time crypto data from SoSoValue API  
-- Detects high-probability trading signals  
-- Uses AI to explain market movements  
-- Lets users simulate trading decisions  
+Users struggle to:
+- Identify real opportunities
+- Understand market signals
+- Act quickly
 
 ---
 
-## ⚡ Core Flow
+## ⚡ Solution
+AlphaPilot AI:
+- Detects real-time signals (SoSoValue API)
+- Explains them using AI
+- Lets users simulate decisions instantly
 
-SoSoValue API → Signal Engine → AI Analysis → Dashboard → User Action
+---
+
+## 🔁 System Flow
+SoSoValue API → Signal Engine → AI Explanation → Dashboard → Action
 
 ---
 
 ## 🧩 Features
-
-- 📡 Real-time signal detection  
-- 🤖 AI-generated explanations  
-- 📊 Clean trading dashboard  
-- ⚡ Instant decision simulation  
-- 🔌 Ready for SoDEX execution integration  
+- Real-time signal detection  
+- AI market explanations  
+- Clean trading dashboard  
+- Trade simulation flow  
 
 ---
 
-## 🏗️ Tech Stack
-
-- Node.js + Express  
-- Next.js  
-- OpenAI API  
-- SoSoValue API  
-
----
-
-## 🚀 How to Run Locally
+## 🚀 How to Run
 
 ### Backend
-```bash
-cd backend
-npm install
-node index.js
-
-## 🚀 Run Locally
+cd backend  
+npm install  
+node index.js  
 
 ### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
+cd frontend  
+npm install  
+npm run dev  
+
+---
+
+## 🧪 Demo Flow
+1. Open dashboard  
+2. View signals  
+3. Click “Explain Signal”  
+4. AI explains opportunity  
+5. User simulates trade  
+
+---
+
+## 🏆 Why This Wins
+- Real-world trading utility  
+- Full AI integration  
+- End-to-end decision pipeline  
+- Clear SoSoValue API usage  
+
+---
+
+## 📄 License
+MIT
